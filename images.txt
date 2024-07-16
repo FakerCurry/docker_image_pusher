@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:5.7
 tomcat:9
 openjdk:8-jdk
+emqx/emqx:5.3.2
