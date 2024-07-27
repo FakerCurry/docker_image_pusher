@@ -5,7 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:5.7
-tomcat:9
+tomcat:8.5
 openjdk:8-jdk
 emqx/emqx:5.3.2
 nginx:1.19.3
