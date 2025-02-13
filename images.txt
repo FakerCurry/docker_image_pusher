@@ -9,3 +9,5 @@ tomcat:8.5
 openjdk:8-jdk
 emqx/emqx:5.3.2
 nginx:1.19.3
+minio/minio
+
